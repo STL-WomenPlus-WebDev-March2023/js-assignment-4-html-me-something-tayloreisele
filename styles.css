@@ -1,1 +1,32 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    text-align: center;
+    font-family: monospace;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+h4 {
+    margin-top: 0;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#images {
+    width: 600px;
+    padding: 50px;
+}
